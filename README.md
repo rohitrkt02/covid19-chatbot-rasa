@@ -29,3 +29,10 @@ This chatbot uses **Rasa NLU** for intent classification, **Rasa Core** for dial
 ```bash
 git clone https://github.com/your-username/covid19-chatbot-rasa.git
 cd covid19-chatbot-rasa
+
+---
+## Create Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
