@@ -7,17 +7,17 @@ This chatbot uses Rasa NLU for intent classification, Rasa Core for dialogue man
 
 
 ## 📌Features
-- Answers FAQs related to COVID-19\
-- Handles greetings, goodbyes, and bot challenges\
-- Provides information on virus spread, risks, and myths\
-- Works with Telegram integration\
+- Answers FAQs related to COVID-19
+- Handles greetings, goodbyes, and bot challenges
+- Provides information on virus spread, risks, and myths
+- Works with Telegram integration
 - Extensible with new intents and stories
 
 ## 🛠️ Tech Stack
-- Python 3.x\
-- RASA (Rasa Open Source & Rasa X)\
-- Spacy (for NLP pipeline)\
-- Ngrok (for webhook tunneling)\
+- Python 3.x
+- RASA (Rasa Open Source & Rasa X)
+- Spacy (for NLP pipeline)
+- Ngrok (for webhook tunneling)
 - Telegram Bot API
 
 ## 🚀 Installation & Setup
@@ -86,9 +86,9 @@ covid19-chatbot-rasa/\
 
 
 ## ✨ Future Enhancements
-- Add multilingual support\
-- Voice-based chatbot integration\
-- Deployment on cloud (AWS / Azure / GCP)\
+- Add multilingual support
+- Voice-based chatbot integration
+- Deployment on cloud (AWS / Azure / GCP)
 - Advanced analytics & monitoring
 
 ## Authors
