@@ -31,7 +31,7 @@ git clone https://github.com/your-username/covid19-chatbot-rasa.git
 cd covid19-chatbot-rasa
 
 ---
-## Create Virtual Environment
+### 2. Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
